@@ -1,1 +1,24 @@
 /* Write your CSS here */
+.notfound-container-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: black;
+}
+.notfound-image {
+  height: 300px;
+  width: 300px;
+}
+.notfound-container-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: white;
+}
+.not-fount-text-dark {
+  color: white;
+}
